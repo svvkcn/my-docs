@@ -15,6 +15,11 @@ export default defineUserConfig({
       title: "svvk.cn",
       description: "svvk.cn宋维康",
     },
+    "/en/": {
+      lang: "en-US",
+      title: "Blog Demo",
+      description: "A blog demo for vuepress-theme-hope",
+    },
   },
 
   theme,
