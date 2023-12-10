@@ -4,16 +4,23 @@ export const enSidebar = sidebar({
   "/en/": [
     "",
     {
+      text: "blog",
+      icon: "book",
+      prefix: "en/blog/",
+      link: "en/blog/",
+      children: "structure",
+    },
+    {
       text: "Demo",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "en/demo/",
+      link: "en/demo/",
       children: "structure",
     },
     {
       text: "Articles",
       icon: "book",
-      prefix: "posts/",
+      prefix: "en/posts/",
       children: "structure",
     },
     "intro",
