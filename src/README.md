@@ -4,8 +4,10 @@ layout: BlogHome
 icon: home
 title: 康哥自留地
 heroImage: /logo.svg
+heroImageDark: /logoDark.svg
+heroAlt: svvkLogo
 heroText: 康哥自留地
-heroFullScreen: true
+heroFullScreen: false
 tagline: 个人空间-兴趣爱好分享
 projects:
   - icon: friend
@@ -38,8 +40,8 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
-copyright: false
+footer: <a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=13052802000663" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;"><img src="https://www.beian.gov.cn/img/new/gongan.png" style="width:1rem;vertical-align:middle;"> 冀公网安备13052802000663号</a> | <a href="https://beian.miit.gov.cn/" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;">冀ICP备2023005584号-1</a> | <a href="https://www.svvk.cn/" target="_blank" style="color:inherit;text-decoration:none;white-space:nowrap;">svvk.cn</a>  
+copyright: Copyright © 2023-present
 ---
 
 这是一个博客主页的案例。

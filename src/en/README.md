@@ -4,6 +4,8 @@ layout: BlogHome
 icon: home
 title: svvk Blog Home
 heroImage: /logo.svg
+heroImageDark: /logoDark.svg
+heroAlt: svvkLogo
 heroText: The name of your blog
 tagline: You can put your slogan here
 heroFullScreen: true
